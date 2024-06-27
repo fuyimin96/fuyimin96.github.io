@@ -16,9 +16,8 @@ redirect_from:
 {% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
 
 <span class='anchor' id='about-me'></span>
-# 🔥 About me
+# 😁 About me
 I am currently a final-year PhD student in School of Automation at the Northwestern Polytechnical University (NWPU), under the supervision of Prof. Zhunga Liu.
-
 My research interests focus on open-environment deep learning and its applications in remote sensing, including as open set recognition, incremental learning, and adversarial learning.
 
 
