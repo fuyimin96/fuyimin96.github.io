@@ -22,7 +22,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 # Site Author
 author:
   name             : "Yimin Fu"
-  avatar           : "images/android-chrome-512x512.png"
+  avatar           : "images/yimin.png"
   bio              : "Northwestern Polytechnical University"
   location         : "Xi’an, China"
   employer         :
@@ -37,7 +37,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "FuYimin_Npu"
+  github           : "fuyimin96"
   google_plus      :
   keybase          :
   instagram        :
