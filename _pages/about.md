@@ -60,5 +60,5 @@ My research interests focus on open-environment deep learning and its applicatio
 - *2015.09 - 2019.06*, Undergraduate, Northwestern Polytechnical University, School of Automation.
 
 # 💻 Internships
-- *2020.02 - 2020.7*, Tsinghua University， School of Vehicle and Mobility.
-- *2019.06 - 2019.9*, China University of Petroleum (East China)， College of Control Science and Engineering.
+- *2020.02 - 2020.7*, Tsinghua University, School of Vehicle and Mobility.
+- *2019.06 - 2019.9*, China University of Petroleum (East China), College of Control Science and Engineering.
