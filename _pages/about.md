@@ -51,7 +51,7 @@ My research interests focus on open-environment deep learning and its applicatio
 - *2023*: Cultivation Foundation for Excellent Doctoral Dissertation, NPU, Xi’an, China.
 - *2023*: Outstanding Graduate Student, NPU, Xi’an, China.
 - *2023*: The First Prize Scholarship, NPU, Xi’an, China.
-- *2022*: 1st place in China University Basketball Association of Shaanxi Province, Xi’an, China.
+- *2022*: The First Place in China University Basketball Association of Shaanxi Province, Xi’an, China.
 - *2021 & 2022*: The Second Prize Scholarship for Two Times, NPU, Xi’an, China.
 
 # 📖 Educations
