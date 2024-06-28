@@ -26,7 +26,7 @@ My research interests focus on open-environment deep learning and its applicatio
 - *2023.08*: &nbsp;🎉 One paper is accepted to IEEE T-GRS.
 - *2023.03*: &nbsp;🎉 One paper is accepted to CVPR-W 2023.
 - *2022.12*: &nbsp;🎉 One paper is accepted to IEEE T-PAMI.
-- *2022.6*: &nbsp;🎉 One paper is accepted to PRCV 2022. (oral)
+- *2022.06*: &nbsp;🎉 One paper is accepted to PRCV 2022. (oral)
 
 # 📝 Publications 
 
