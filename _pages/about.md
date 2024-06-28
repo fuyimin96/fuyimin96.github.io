@@ -17,37 +17,47 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 # 😁 About me
-I am currently a final-year PhD student in School of Automation at the Northwestern Polytechnical University (NWPU), under the supervision of Prof. Zhunga Liu.
-My research interests focus on open-environment deep learning and its applications in remote sensing, including as open set recognition, incremental learning, and adversarial learning.
-
+I am currently a final-year PhD student in the School of Automation at Northwestern Polytechnical University (NWPU), under the supervision of Prof. Zhunga Liu.
+My research interests focus on open-environment deep learning and its applications in remote sensing, including open set recognition, incremental learning, and adversarial learning.
 
 # 🔥 News
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2024.02*: &nbsp;🎉 One paper is accepted to IEEE T-AES.
+- *2023.12*: &nbsp;🎉 One paper is accepted to IEEE SCIS.
+- *2023.08*: &nbsp;🎉 One paper is accepted to IEEE T-GRS.
+- *2023.03*: &nbsp;🎉 One paper is accepted to CVPR-W 2024.
+- *2022.12*: &nbsp;🎉 One paper is accepted to IEEE T-PAMI.
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
+- Orientational Distribution Learning with Hierarchical Spatial Attention for Open Set Recognition
+<br>Zhunga Liu, **Yimin Fu**, Quan Pan, Zuowei Zhang. (co-authored with supervisor)
+<br>IEEE Transactions on Pattern Analysis and Machine Intelligence, 2022.
 
-[Deep Residual Learning for Image Recognition](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
+- Progressive Learning Vision Transformer for Open Set Recognition of Fine-Grained Objects in Remote Sensing Images
+<br>**Yimin Fu**, Zhunga Liu, Zuowei Zhang.
+<br>IEEE Transactions on Geoscience and Remote Sensing, 2023.
 
-**Kaiming He**, Xiangyu Zhang, Shaoqing Ren, Jian Sun
+- Class-Incremental Recognition of Objects in Remote Sensing Images with Dynamic Hybrid Exemplar Selection
+<br>**Yimin Fu**, Zhunga Liu, Changyuan Wu, Feiyan Wu, Meiqin Liu.
+<br>IEEE Transactions on Aerospace and Electronic Systems, 2024.
 
-[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-</div>
-</div>
-
-- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
+- Logit Prototype Learning with Active Multimodal Representation for Robust Open-Set Recognition
+<br>**Yimin Fu**, Zhunga Liu, Zicheng Wang.
+<br>Science China Information Sciences, 2024.
 
 # 🎖 Honors and Awards
-- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2023*: Innovation Foundation for Doctor Dissertation, NPU, Xi’an, China.
+- *2023*: Cultivation Foundation for Excellent Doctoral Dissertation, NPU, Xi’an, China.
+- *2023*: Outstanding Graduate Student, NPU, Xi’an, China.
+- *2023*: The First Prize Scholarship, NPU, Xi’an, China.
+- *2022*: 1st place in China University Basketball Association of Shaanxi Province, Xi’an, China.
+- *2021 & 2022*: The Second Prize Scholarship for Two Times, NPU, Xi’an, China.
 
 # 📖 Educations
-- *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2021.03 - now*, PhD, Northwestern Polytechnical University, School of Automation.
+- *2018.09 - 2020.12*, Master, National Institute of Applied Science, Department of Electrical and Computer Engineering.
+- *2015.09 - 2019.06*, Undergraduate, Northwestern Polytechnical University, School of Automation.
 
 # 💻 Internships
-- *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
+- *2020.02 - 2020.7*, Tsinghua University， School of Vehicle and Mobility.
+- *2019.06 - 2019.9*, China University of Petroleum (East China)， College of Control Science and Engineering.
