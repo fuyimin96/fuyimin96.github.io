@@ -21,6 +21,7 @@ I am currently a final-year PhD student in the School of Automation at Northwest
 My research interests focus on open-environment deep learning and its applications in remote sensing, including open set recognition, incremental learning, and adversarial learning.
 
 # 🔥 News
+- *2024.08*: &nbsp;🎉 One paper is accepted to IEEE T-GRS.
 - *2024.02*: &nbsp;🎉 One paper is accepted to IEEE T-AES.
 - *2023.12*: &nbsp;🎉 One paper is accepted to SCIS.
 - *2023.08*: &nbsp;🎉 One paper is accepted to IEEE T-GRS.
