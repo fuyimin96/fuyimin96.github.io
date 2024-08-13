@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 # 😁 About me
-I am currently a final-year PhD student in the School of Automation at Northwestern Polytechnical University (NWPU), under the supervision of Prof. Zhunga Liu.
+I am currently a final-year PhD student in the School of Automation at Northwestern Polytechnical University (NWPU), under the supervision of **Prof. Zhunga Liu**.
 My research interests focus on open-environment deep learning and its applications in remote sensing, including open set recognition, incremental learning, and adversarial learning.
 
 # 🔥 News
@@ -46,6 +46,10 @@ My research interests focus on open-environment deep learning and its applicatio
 - Logit Prototype Learning with Active Multimodal Representation for Robust Open-Set Recognition
 <br>**Yimin Fu**, Zhunga Liu, Zicheng Wang.
 <br>Science China Information Sciences, 2024.
+
+- Transferable Adversarial Attacks for Remote Sensing Object Recognition via Spatial-Frequency Co-Transformation
+<br>**Yimin Fu**, Zhunga Liu, Jialin Lyu.
+<br>IEEE Transactions on Geoscience and Remote Sensing, 2024.
 
 # 🎖 Honors and Awards
 - *2023*: Innovation Foundation for Doctor Dissertation, NPU, Xi’an, China.
