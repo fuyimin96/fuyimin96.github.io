@@ -21,6 +21,7 @@ I am currently a final-year PhD student in the School of Automation at Northwest
 My research interests focus on open-environment deep learning and its applications in remote sensing, including open set recognition, incremental learning, and adversarial learning.
 
 # 🔥 News
+- *2024.11*: &nbsp;🎉 National Scholarship for PhD Students.
 - *2024.08*: &nbsp;🎉 One paper is accepted to IEEE T-GRS.
 - *2024.02*: &nbsp;🎉 One paper is accepted to IEEE T-AES.
 - *2023.12*: &nbsp;🎉 One paper is accepted to SCIS.
@@ -52,6 +53,7 @@ My research interests focus on open-environment deep learning and its applicatio
 <br>IEEE Transactions on Geoscience and Remote Sensing, 2024.
 
 # 🎖 Honors and Awards
+- *2024*: National Scholarship for PhD Students, NPU, Xi’an, China.
 - *2023*: Innovation Foundation for Doctor Dissertation, NPU, Xi’an, China.
 - *2023*: Cultivation Foundation for Excellent Doctoral Dissertation, NPU, Xi’an, China.
 - *2023*: Outstanding Graduate Student, NPU, Xi’an, China.
@@ -60,7 +62,7 @@ My research interests focus on open-environment deep learning and its applicatio
 - *2021 & 2022*: The Second Prize Scholarship for Two Times, NPU, Xi’an, China.
 
 # 📖 Educations
-- *2021.03 - now*, PhD, Northwestern Polytechnical University, School of Automation.
+- *2021.03 - 2024.12*, PhD, Northwestern Polytechnical University, School of Automation.
 - *2018.09 - 2020.12*, Master, National Institute of Applied Science, Department of Electrical and Computer Engineering.
 - *2015.09 - 2019.06*, Undergraduate, Northwestern Polytechnical University, School of Automation.
 
