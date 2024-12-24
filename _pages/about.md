@@ -17,10 +17,12 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 # 😁 About me
-I am currently a final-year PhD student in the School of Automation at Northwestern Polytechnical University (NWPU), under the supervision of **Prof. Zhunga Liu**.
+I obtained my Ph.D. degree from the School of Automation at Northwestern Polytechnical University (NWPU), under the supervision of **Prof. Zhunga Liu**.
 My research interests focus on open-environment deep learning and its applications in remote sensing, including open set recognition, incremental learning, and adversarial learning.
+Starting in 2025, I will join Hong Kong Baptist University as a postdoctoral researcher, supervised by **Prof. Michael Kwok-Po Ng**.
 
 # 🔥 News
+- *2024.12*: &nbsp;🎉 I obatain my Ph.D. degree from NWPU.
 - *2024.11*: &nbsp;🎉 National Scholarship for PhD Students.
 - *2024.08*: &nbsp;🎉 One paper is accepted to IEEE T-GRS.
 - *2024.02*: &nbsp;🎉 One paper is accepted to IEEE T-AES.
