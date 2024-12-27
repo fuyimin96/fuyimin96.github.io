@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Yimin Fu"
-description              : "PhD student, Northwestern Polytechnical University. "
+description              : "Postdoctoral Researcher, Hong Kong Baptist University (starting soon). "
 repository               : "fuyimin96/fuyimin96.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -23,8 +23,8 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Yimin Fu"
   avatar           : "images/yimin.jpg"
-  bio              : "Northwestern Polytechnical University"
-  location         : "Xi’an, China"
+  bio              : "Hong Kong Baptist University."
+  location         : "Hong Kong"
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=i858r_cAAAAJ&hl=zh-CN"
