@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Yimin Fu"
-description              : "Postdoctoral Researcher, Hong Kong Baptist University (starting soon). "
+description              : "Postdoctoral Researcher, Hong Kong Baptist University. "
 repository               : "fuyimin96/fuyimin96.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -28,7 +28,7 @@ author:
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=i858r_cAAAAJ&hl=zh-CN"
-  email            : "fuyimin96@mail.nwpu.edu.cn"
+  email            : "fuyimin@hkbu.edu.hk"
   researchgate     :  # e.g., "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
