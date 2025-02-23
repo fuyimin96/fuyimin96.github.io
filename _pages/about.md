@@ -19,7 +19,7 @@ redirect_from:
 # 😁 About me
 I obtained my Ph.D. degree from the School of Automation at Northwestern Polytechnical University (NWPU), under the supervision of **Prof. Zhunga Liu**.
 My research interests focus on open-environment deep learning and its applications in remote sensing, including open set recognition, incremental learning, and adversarial learning.
-Starting in 2025, I will join Hong Kong Baptist University (HKBU) as a postdoctoral researcher, supervised by **Prof. Michael Kwok-Po Ng**.
+Starting in 2025, I join Hong Kong Baptist University (HKBU) as a postdoctoral researcher, supervised by **Prof. Michael Kwok-Po Ng**.
 
 # 🔥 News
 - *2024.12*: &nbsp;🎉 I obatain my Ph.D. degree from NWPU.
