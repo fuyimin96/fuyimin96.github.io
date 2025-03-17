@@ -22,6 +22,7 @@ My research interests focus on open-environment deep learning and its applicatio
 Starting in 2025, I join Hong Kong Baptist University (HKBU) as a postdoctoral researcher, supervised by **Prof. Michael Kwok-Po Ng**.
 
 # 🔥 News
+- *2025.03*: &nbsp;🎉 One paper is accepted to IEEE T-PAMI.
 - *2024.12*: &nbsp;🎉 I obatain my Ph.D. degree from NWPU.
 - *2024.11*: &nbsp;🎉 National Scholarship for PhD Students.
 - *2024.08*: &nbsp;🎉 One paper is accepted to IEEE T-GRS.
@@ -33,6 +34,10 @@ Starting in 2025, I join Hong Kong Baptist University (HKBU) as a postdoctoral r
 - *2022.06*: &nbsp;🎉 One paper is accepted to PRCV 2022. (oral)
 
 # 📝 Publications 
+
+- Reason and Discovery: A New Paradigm for Open Set Recognition
+<br>**Yimin Fu**, Zhunga Liu, Jialin Lyu.
+<br>IEEE Transactions on Pattern Analysis and Machine Intelligence, 2025.
 
 - Orientational Distribution Learning with Hierarchical Spatial Attention for Open Set Recognition
 <br>Zhunga Liu, **Yimin Fu**, Quan Pan, Zuowei Zhang. (co-authored with supervisor)
