@@ -23,7 +23,8 @@ Starting in 2025, I join Hong Kong Baptist University (HKBU) as a postdoctoral r
 
 # 🔥 News
 - *2025.03*: &nbsp;🎉 One paper is accepted to IEEE T-PAMI.
-- *2024.12*: &nbsp;🎉 I obatain my Ph.D. degree from NWPU.
+- *2025.03*: &nbsp;✈️ Onboarding at HKBU.
+- *2024.12*: &nbsp;👨‍🎓 I obatain my Ph.D. degree from NWPU.
 - *2024.11*: &nbsp;🎉 National Scholarship for PhD Students.
 - *2024.08*: &nbsp;🎉 One paper is accepted to IEEE T-GRS.
 - *2024.02*: &nbsp;🎉 One paper is accepted to IEEE T-AES.
