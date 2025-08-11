@@ -22,6 +22,7 @@ My research interests focus on open-environment deep learning and its applicatio
 Starting in 2025, I join Hong Kong Baptist University (HKBU) as a postdoctoral researcher, supervised by **Prof. Michael Kwok-Po Ng**.
 
 # 🔥 News
+- *2025.08*: &nbsp;🎉 One paper is accepted to IEEE T-CSVT.
 - *2025.07*: &nbsp;🎉 Two papers are accepted to ICCV and ACM MM 2025 workshops.
 - *2025.03*: &nbsp;🎉 One paper is accepted to IEEE T-PAMI.
 - *2025.02*: &nbsp;✈️ Onboarding at HKBU.
@@ -45,21 +46,25 @@ Starting in 2025, I join Hong Kong Baptist University (HKBU) as a postdoctoral r
 <br>Zhunga Liu, **Yimin Fu**, Quan Pan, Zuowei Zhang. (co-authored with supervisor)
 <br>IEEE Transactions on Pattern Analysis and Machine Intelligence, 2022.
 
-- Progressive Learning Vision Transformer for Open Set Recognition of Fine-Grained Objects in Remote Sensing Images
-<br>**Yimin Fu**, Zhunga Liu, Zuowei Zhang.
-<br>IEEE Transactions on Geoscience and Remote Sensing, 2023.
+- Adaptive Mixture-of-Experts Distillation for Cross-Satellite Generalizable Incremental Remote Sensing Scene Classification
+<br>**Yimin Fu**, Runqing Yang, Zhunga Liu, Michael K. Ng.
+<br>IEEE Transactions on Circuits and Systems for Video Technology, 2025.
 
-- Class-Incremental Recognition of Objects in Remote Sensing Images with Dynamic Hybrid Exemplar Selection
-<br>**Yimin Fu**, Zhunga Liu, Changyuan Wu, Feiyan Wu, Meiqin Liu.
-<br>IEEE Transactions on Aerospace and Electronic Systems, 2024.
+- Transferable Adversarial Attacks for Remote Sensing Object Recognition via Spatial-Frequency Co-Transformation
+<br>**Yimin Fu**, Zhunga Liu, Jialin Lyu.
+<br>IEEE Transactions on Geoscience and Remote Sensing, 2024.
 
 - Logit Prototype Learning with Active Multimodal Representation for Robust Open-Set Recognition
 <br>**Yimin Fu**, Zhunga Liu, Zicheng Wang.
 <br>Science China Information Sciences, 2024.
 
-- Transferable Adversarial Attacks for Remote Sensing Object Recognition via Spatial-Frequency Co-Transformation
-<br>**Yimin Fu**, Zhunga Liu, Jialin Lyu.
-<br>IEEE Transactions on Geoscience and Remote Sensing, 2024.
+- Class-Incremental Recognition of Objects in Remote Sensing Images with Dynamic Hybrid Exemplar Selection
+<br>**Yimin Fu**, Zhunga Liu, Changyuan Wu, Feiyan Wu, Meiqin Liu.
+<br>IEEE Transactions on Aerospace and Electronic Systems, 2024.
+
+- Progressive Learning Vision Transformer for Open Set Recognition of Fine-Grained Objects in Remote Sensing Images
+<br>**Yimin Fu**, Zhunga Liu, Zuowei Zhang.
+<br>IEEE Transactions on Geoscience and Remote Sensing, 2023.
 
 # 🎖 Honors and Awards
 - *2024*: National Scholarship for PhD Students, NPU, Xi’an, China.
