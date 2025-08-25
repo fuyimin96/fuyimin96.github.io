@@ -43,7 +43,7 @@ Starting in 2025, I join Hong Kong Baptist University (HKBU) as a postdoctoral r
 <br>IEEE Transactions on Pattern Analysis and Machine Intelligence, 2025.
 
 - Orientational Distribution Learning with Hierarchical Spatial Attention for Open Set Recognition
-<br>Zhunga Liu, **Yimin Fu**, Quan Pan, Zuowei Zhang. (co-authored with supervisor)
+<br>Zhunga Liu, **Yimin Fu**, Quan Pan, Zuowei Zhang. (co-authored with PhD supervisor)
 <br>IEEE Transactions on Pattern Analysis and Machine Intelligence, 2022.
 
 - Adaptive Mixture-of-Experts Distillation for Cross-Satellite Generalizable Incremental Remote Sensing Scene Classification
