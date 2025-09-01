@@ -22,6 +22,7 @@ My research interests focus on open-environment deep learning and its applicatio
 Starting in 2025, I join Hong Kong Baptist University (HKBU) as a postdoctoral researcher, supervised by **Prof. Michael Kwok-Po Ng**.
 
 # 🔥 News
+- *2025.09*: &nbsp;🎉 One paper is accepted to Signal Processing.
 - *2025.08*: &nbsp;🎉 One paper is accepted to IEEE T-CSVT.
 - *2025.07*: &nbsp;🎉 Two papers are accepted to ICCV and ACM MM 2025 workshops.
 - *2025.03*: &nbsp;🎉 One paper is accepted to IEEE T-PAMI.
