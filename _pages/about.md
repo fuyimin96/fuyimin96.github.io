@@ -22,6 +22,7 @@ My research interests focus on open-environment deep learning and its applicatio
 Starting in 2025, I join Hong Kong Baptist University (HKBU) as a postdoctoral researcher, supervised by **Prof. Michael Kwok-Po Ng**.
 
 # 🔥 News
+- *2025.09*: &nbsp;🎉 One paper is accepted to IEEE T-GRS.
 - *2025.09*: &nbsp;🎉 One paper is accepted to Signal Processing.
 - *2025.08*: &nbsp;🎉 One paper is accepted to IEEE T-CSVT.
 - *2025.07*: &nbsp;🎉 Two papers are accepted to ICCV and ACM MM 2025 workshops.
@@ -46,6 +47,10 @@ Starting in 2025, I join Hong Kong Baptist University (HKBU) as a postdoctoral r
 - Orientational Distribution Learning with Hierarchical Spatial Attention for Open Set Recognition
 <br>Zhunga Liu, **Yimin Fu**, Quan Pan, Zuowei Zhang. (co-authored with PhD supervisor)
 <br>IEEE Transactions on Pattern Analysis and Machine Intelligence, 2022.
+
+- A Unified SAM-Guided Self-Prompt Learning Framework for Infrared Small Target Detection
+<br>**Yimin Fu**, Jialin Lyu, Zhunga Liu, Michael K. Ng.
+<br>IEEE Transactions on Geoscience and Remote Sensing, 2025.
 
 - Adaptive Mixture-of-Experts Distillation for Cross-Satellite Generalizable Incremental Remote Sensing Scene Classification
 <br>**Yimin Fu**, Runqing Yang, Zhunga Liu, Michael K. Ng.
