@@ -49,7 +49,7 @@ Starting in 2025, I join Hong Kong Baptist University (HKBU) as a postdoctoral r
 <br>IEEE Transactions on Pattern Analysis and Machine Intelligence, 2022.
 
 - A Unified SAM-Guided Self-Prompt Learning Framework for Infrared Small Target Detection
-<br>**Yimin Fu**, Jialin Lyu, Zhunga Liu, Michael K. Ng.
+<br>**Yimin Fu**, Jialin Lyu, Peiyuan Ma, Zhunga Liu, Michael K. Ng.
 <br>IEEE Transactions on Geoscience and Remote Sensing, 2025.
 
 - Adaptive Mixture-of-Experts Distillation for Cross-Satellite Generalizable Incremental Remote Sensing Scene Classification
