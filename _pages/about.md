@@ -43,7 +43,7 @@ Starting in 2025, I join Hong Kong Baptist University (HKBU) as a postdoctoral r
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">TPAMI 2025</div><img src='../images/rad.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
   
-Reason and Discovery: A New Paradigm for Open Set Recognition. IEEE Transactions on Pattern Analysis and Machine Intelligence, 2025.[[Paper](https://ieeexplore.ieee.org/abstract/document/10933572)]
+Reason and Discovery: A New Paradigm for Open Set Recognition. IEEE Transactions on Pattern Analysis and Machine Intelligence, 2025. [[Paper](https://ieeexplore.ieee.org/abstract/document/10933572)] [[Code](https://github.com/fuyimin96/ODL)]
 
 **Yimin Fu**, Zhunga Liu, Jialin Lyu.
 
@@ -53,14 +53,14 @@ Reason and Discovery: A New Paradigm for Open Set Recognition. IEEE Transactions
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">TPAMI 2022</div><img src='../images/odl.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
   
-Orientational Distribution Learning with Hierarchical Spatial Attention for Open Set Recognition. IEEE Transactions on Pattern Analysis and Machine Intelligence, 2022.[[Paper](https://ieeexplore.ieee.org/abstract/document/9978641)] [[Code](https://github.com/fuyimin96/ODL)]
+Orientational Distribution Learning with Hierarchical Spatial Attention for Open Set Recognition. IEEE Transactions on Pattern Analysis and Machine Intelligence, 2022. [[Paper](https://ieeexplore.ieee.org/abstract/document/9978641)] [[Code](https://github.com/fuyimin96/ODL)]
 
 Zhunga Liu, **Yimin Fu**, Quan Pan, Zuowei Zhang. (co-authored with PhD supervisor)
 
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TGRS 2025</div><img src='../images/sam-spl' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TGRS 2025</div><img src='../images/sam-spl.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
   
 A Unified SAM-Guided Self-Prompt Learning Framework for Infrared Small Target Detection. IEEE Transactions on Geoscience and Remote Sensing, 2025. [[Code](https://github.com/fuyimin96/SAM-SPL)]
@@ -73,7 +73,7 @@ A Unified SAM-Guided Self-Prompt Learning Framework for Infrared Small Target De
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">TCSVT 2025</div><img src='../images/amoed.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
   
-Adaptive Mixture-of-Experts Distillation for Cross-Satellite Generalizable Incremental Remote Sensing Scene Classification. IEEE Transactions on Circuits and Systems for Video Technology, 2025.[[Paper](https://ieeexplore.ieee.org/document/11124203)] [[Code](https://github.com/fuyimin96/AMoED)]
+Adaptive Mixture-of-Experts Distillation for Cross-Satellite Generalizable Incremental Remote Sensing Scene Classification. IEEE Transactions on Circuits and Systems for Video Technology, 2025. [[Paper](https://ieeexplore.ieee.org/document/11124203)] [[Code](https://github.com/fuyimin96/AMoED)]
 
 **Yimin Fu**, Runqing Yang, Zhunga Liu, Michael K. Ng.
 
@@ -83,7 +83,7 @@ Adaptive Mixture-of-Experts Distillation for Cross-Satellite Generalizable Incre
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">SP 2025</div><img src='../images/sar.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
   
-Scattering-Guided Class-Irrelevant Filtering for Adversarially Robust SAR Automatic Target Recognition. Signal Processing, 2025.[[Paper](https://www.sciencedirect.com/science/article/pii/S0165168425003871)] [[Code](https://github.com/jialinlvcn/SGCIF-VAE)]
+Scattering-Guided Class-Irrelevant Filtering for Adversarially Robust SAR Automatic Target Recognition. Signal Processing, 2025. [[Paper](https://www.sciencedirect.com/science/article/pii/S0165168425003871)] [[Code](https://github.com/jialinlvcn/SGCIF-VAE)]
 
 Zhunga Liu, Jialin Lyu, **Yimin Fu<sup>*</sup>**.
 
@@ -93,7 +93,7 @@ Zhunga Liu, Jialin Lyu, **Yimin Fu<sup>*</sup>**.
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">TGRS 2024</div><img src='../images/sfcot.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
   
-Transferable Adversarial Attacks for Remote Sensing Object Recognition via Spatial-Frequency Co-Transformation. IEEE Transactions on Geoscience and Remote Sensing, 2024.[[Paper](https://ieeexplore.ieee.org/document/10636327)] [[Code](https://github.com/fuyimin96/SFCoT)]
+Transferable Adversarial Attacks for Remote Sensing Object Recognition via Spatial-Frequency Co-Transformation. IEEE Transactions on Geoscience and Remote Sensing, 2024. [[Paper](https://ieeexplore.ieee.org/document/10636327)] [[Code](https://github.com/fuyimin96/SFCoT)]
 
 **Yimin Fu**, Zhunga Liu, Jialin Lyu.
 
@@ -103,7 +103,7 @@ Transferable Adversarial Attacks for Remote Sensing Object Recognition via Spati
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">SCIS 2024</div><img src='../images/lpl.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
   
-Logit Prototype Learning with Active Multimodal Representation for Robust Open-Set Recognition. Science China Information Sciences, 2024.[[Paper](https://link.springer.com/article/10.1007/s11432-023-3924-x)] [[Code](https://github.com/fuyimin96/LPL)]
+Logit Prototype Learning with Active Multimodal Representation for Robust Open-Set Recognition. Science China Information Sciences, 2024. [[Paper](https://link.springer.com/article/10.1007/s11432-023-3924-x)] [[Code](https://github.com/fuyimin96/LPL)]
 
 **Yimin Fu**, Zhunga Liu, Zicheng Wang.
 
@@ -113,7 +113,7 @@ Logit Prototype Learning with Active Multimodal Representation for Robust Open-S
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">TAES 2024</div><img src='../images/dhes.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
   
-Class-Incremental Recognition of Objects in Remote Sensing Images with Dynamic Hybrid Exemplar Selection. IEEE Transactions on Aerospace and Electronic Systems, 2024.[[Paper](https://ieeexplore.ieee.org/document/10423237)]
+Class-Incremental Recognition of Objects in Remote Sensing Images with Dynamic Hybrid Exemplar Selection. IEEE Transactions on Aerospace and Electronic Systems, 2024. [[Paper](https://ieeexplore.ieee.org/document/10423237)]
 
 **Yimin Fu**, Zhunga Liu, Changyuan Wu, Feiyan Wu, Meiqin Liu.
 
@@ -123,7 +123,7 @@ Class-Incremental Recognition of Objects in Remote Sensing Images with Dynamic H
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">TGRS 2023</div><img src='../images/plvit.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
   
-Progressive Learning Vision Transformer for Open Set Recognition of Fine-Grained Objects in Remote Sensing Images. IEEE Transactions on Geoscience and Remote Sensing, 2023.[[Paper](https://ieeexplore.ieee.org/document/10231130)]
+Progressive Learning Vision Transformer for Open Set Recognition of Fine-Grained Objects in Remote Sensing Images. IEEE Transactions on Geoscience and Remote Sensing, 2023. [[Paper](https://ieeexplore.ieee.org/document/10231130)]
 
 **Yimin Fu**, Zhunga Liu, Zuowei Zhang.
 
