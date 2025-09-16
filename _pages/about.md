@@ -57,6 +57,9 @@ Orientational Distribution Learning with Hierarchical Spatial Attention for Open
 
 Zhunga Liu, **Yimin Fu**, Quan Pan, Zuowei Zhang. (co-authored with PhD supervisor)
 
+</div>
+</div>
+
 - A Unified SAM-Guided Self-Prompt Learning Framework for Infrared Small Target Detection
 <br>**Yimin Fu**, Jialin Lyu, Peiyuan Ma, Zhunga Liu, Michael K. Ng.
 <br>IEEE Transactions on Geoscience and Remote Sensing, 2025.
