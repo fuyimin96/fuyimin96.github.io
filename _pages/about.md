@@ -43,7 +43,7 @@ Starting in 2025, I join Hong Kong Baptist University (HKBU) as a postdoctoral r
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">TPAMI 2025</div><img src='../images/rad.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
   
-Reason and Discovery: A New Paradigm for Open Set Recognition. IEEE Transactions on Pattern Analysis and Machine Intelligence, 2025. [[Paper](https://ieeexplore.ieee.org/abstract/document/10933572)] [[Code](https://github.com/fuyimin96/ODL)]
+Reason and Discovery: A New Paradigm for Open Set Recognition. IEEE Transactions on Pattern Analysis and Machine Intelligence, 2025. [[Paper](https://ieeexplore.ieee.org/abstract/document/10933572)] [[Code](https://github.com/fuyimin96/RAD)]
 
 **Yimin Fu**, Zhunga Liu, Jialin Lyu.
 
