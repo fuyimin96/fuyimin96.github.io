@@ -40,13 +40,22 @@ Starting in 2025, I join Hong Kong Baptist University (HKBU) as a postdoctoral r
 
 # 📝 Publications 
 
-- Reason and Discovery: A New Paradigm for Open Set Recognition
-<br>**Yimin Fu**, Zhunga Liu, Jialin Lyu.
-<br>IEEE Transactions on Pattern Analysis and Machine Intelligence, 2025.
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TPAMI 2025</div><img src='../images/rad.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+  
+Reason and Discovery: A New Paradigm for Open Set Recognition. IEEE Transactions on Pattern Analysis and Machine Intelligence, 2025.[[Paper](https://ieeexplore.ieee.org/abstract/document/10933572)]
 
-- Orientational Distribution Learning with Hierarchical Spatial Attention for Open Set Recognition
-<br>Zhunga Liu, **Yimin Fu**, Quan Pan, Zuowei Zhang. (co-authored with PhD supervisor)
-<br>IEEE Transactions on Pattern Analysis and Machine Intelligence, 2022.
+**Yimin Fu**, Zhunga Liu, Jialin Lyu.
+
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TPAMI 2022</div><img src='../images/odl.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+  
+Orientational Distribution Learning with Hierarchical Spatial Attention for Open Set Recognition. IEEE Transactions on Pattern Analysis and Machine Intelligence, 2022.[[Paper](https://ieeexplore.ieee.org/abstract/document/9978641)]
+
+Zhunga Liu, **Yimin Fu**, Quan Pan, Zuowei Zhang. (co-authored with PhD supervisor)
 
 - A Unified SAM-Guided Self-Prompt Learning Framework for Infrared Small Target Detection
 <br>**Yimin Fu**, Jialin Lyu, Peiyuan Ma, Zhunga Liu, Michael K. Ng.
