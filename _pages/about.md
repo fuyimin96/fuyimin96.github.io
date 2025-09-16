@@ -64,25 +64,55 @@ Zhunga Liu, **Yimin Fu**, Quan Pan, Zuowei Zhang. (co-authored with PhD supervis
 <br>**Yimin Fu**, Jialin Lyu, Peiyuan Ma, Zhunga Liu, Michael K. Ng.
 <br>IEEE Transactions on Geoscience and Remote Sensing, 2025.
 
-- Adaptive Mixture-of-Experts Distillation for Cross-Satellite Generalizable Incremental Remote Sensing Scene Classification
-<br>**Yimin Fu**, Runqing Yang, Zhunga Liu, Michael K. Ng.
-<br>IEEE Transactions on Circuits and Systems for Video Technology, 2025.
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TCSVT 2025</div><img src='../images/amoed.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+  
+Adaptive Mixture-of-Experts Distillation for Cross-Satellite Generalizable Incremental Remote Sensing Scene Classification. IEEE Transactions on Circuits and Systems for Video Technology, 2025.[[Paper](https://ieeexplore.ieee.org/document/11124203)] [[Code](https://github.com/fuyimin96/AMoED)]
 
-- Transferable Adversarial Attacks for Remote Sensing Object Recognition via Spatial-Frequency Co-Transformation
-<br>**Yimin Fu**, Zhunga Liu, Jialin Lyu.
-<br>IEEE Transactions on Geoscience and Remote Sensing, 2024.
+**Yimin Fu**, Runqing Yang, Zhunga Liu, Michael K. Ng.
 
-- Logit Prototype Learning with Active Multimodal Representation for Robust Open-Set Recognition
-<br>**Yimin Fu**, Zhunga Liu, Zicheng Wang.
-<br>Science China Information Sciences, 2024.
+</div>
+</div>
 
-- Class-Incremental Recognition of Objects in Remote Sensing Images with Dynamic Hybrid Exemplar Selection
-<br>**Yimin Fu**, Zhunga Liu, Changyuan Wu, Feiyan Wu, Meiqin Liu.
-<br>IEEE Transactions on Aerospace and Electronic Systems, 2024.
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TGRS 2024</div><img src='../images/sfcot.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+  
+Transferable Adversarial Attacks for Remote Sensing Object Recognition via Spatial-Frequency Co-Transformation. IEEE Transactions on Geoscience and Remote Sensing, 2024.[[Paper](https://ieeexplore.ieee.org/document/10636327)] [[Code](https://github.com/fuyimin96/SFCoT)]
 
-- Progressive Learning Vision Transformer for Open Set Recognition of Fine-Grained Objects in Remote Sensing Images
-<br>**Yimin Fu**, Zhunga Liu, Zuowei Zhang.
-<br>IEEE Transactions on Geoscience and Remote Sensing, 2023.
+**Yimin Fu**, Zhunga Liu, Jialin Lyu.
+
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">SCIS 2024</div><img src='../images/lpl.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+  
+Logit Prototype Learning with Active Multimodal Representation for Robust Open-Set Recognition. Science China Information Sciences, 2024.[[Paper](https://link.springer.com/article/10.1007/s11432-023-3924-x)] [[Code](https://github.com/fuyimin96/LPL)]
+
+**Yimin Fu**, Zhunga Liu, Zicheng Wang.
+
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TAES 2024</div><img src='../images/dhes.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+  
+Class-Incremental Recognition of Objects in Remote Sensing Images with Dynamic Hybrid Exemplar Selection. IEEE Transactions on Aerospace and Electronic Systems, 2024.[[Paper](https://ieeexplore.ieee.org/document/10423237)]
+
+**Yimin Fu**, Zhunga Liu, Changyuan Wu, Feiyan Wu, Meiqin Liu.
+
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TGRS 2023</div><img src='../images/plvit.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+  
+Progressive Learning Vision Transformer for Open Set Recognition of Fine-Grained Objects in Remote Sensing Images. IEEE Transactions on Geoscience and Remote Sensing, 2023.[[Paper](https://ieeexplore.ieee.org/document/10231130)]
+
+**Yimin Fu**, Zhunga Liu, Zuowei Zhang.
+
+</div>
+</div>
 
 # 🎖 Honors and Awards
 - *2024*: National Scholarship for PhD Students, NPU, Xi’an, China.
