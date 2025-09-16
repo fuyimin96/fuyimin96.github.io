@@ -53,16 +53,22 @@ Reason and Discovery: A New Paradigm for Open Set Recognition. IEEE Transactions
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">TPAMI 2022</div><img src='../images/odl.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
   
-Orientational Distribution Learning with Hierarchical Spatial Attention for Open Set Recognition. IEEE Transactions on Pattern Analysis and Machine Intelligence, 2022.[[Paper](https://ieeexplore.ieee.org/abstract/document/9978641)]
+Orientational Distribution Learning with Hierarchical Spatial Attention for Open Set Recognition. IEEE Transactions on Pattern Analysis and Machine Intelligence, 2022.[[Paper](https://ieeexplore.ieee.org/abstract/document/9978641)] [[Code](https://github.com/fuyimin96/ODL)]
 
 Zhunga Liu, **Yimin Fu**, Quan Pan, Zuowei Zhang. (co-authored with PhD supervisor)
 
 </div>
 </div>
 
-- A Unified SAM-Guided Self-Prompt Learning Framework for Infrared Small Target Detection
-<br>**Yimin Fu**, Jialin Lyu, Peiyuan Ma, Zhunga Liu, Michael K. Ng.
-<br>IEEE Transactions on Geoscience and Remote Sensing, 2025.
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TGRS 2025</div><img src='../images/sam-spl' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+  
+A Unified SAM-Guided Self-Prompt Learning Framework for Infrared Small Target Detection. IEEE Transactions on Geoscience and Remote Sensing, 2025. [[Code](https://github.com/fuyimin96/SAM-SPL)]
+
+**Yimin Fu**, Jialin Lyu, Peiyuan Ma, Zhunga Liu, Michael K. Ng.
+
+</div>
+</div>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">TCSVT 2025</div><img src='../images/amoed.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -70,6 +76,16 @@ Zhunga Liu, **Yimin Fu**, Quan Pan, Zuowei Zhang. (co-authored with PhD supervis
 Adaptive Mixture-of-Experts Distillation for Cross-Satellite Generalizable Incremental Remote Sensing Scene Classification. IEEE Transactions on Circuits and Systems for Video Technology, 2025.[[Paper](https://ieeexplore.ieee.org/document/11124203)] [[Code](https://github.com/fuyimin96/AMoED)]
 
 **Yimin Fu**, Runqing Yang, Zhunga Liu, Michael K. Ng.
+
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">SP 2025</div><img src='../images/sar.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+  
+Scattering-Guided Class-Irrelevant Filtering for Adversarially Robust SAR Automatic Target Recognition. Signal Processing, 2025.[[Paper](https://www.sciencedirect.com/science/article/pii/S0165168425003871)] [[Code](https://github.com/jialinlvcn/SGCIF-VAE)]
+
+Zhunga Liu, Jialin Lyu, **Yimin Fu<sup>*</sup>**.
 
 </div>
 </div>
