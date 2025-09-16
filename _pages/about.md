@@ -47,6 +47,8 @@ Reason and Discovery: A New Paradigm for Open Set Recognition. IEEE Transactions
 
 **Yimin Fu**, Zhunga Liu, Jialin Lyu.
 
+- **<span style="color: red;"> SCI Q1, CCF-A, 中科院1区 Top, IF: 18.6 </span>**
+
 </div>
 </div>
 
@@ -56,6 +58,8 @@ Reason and Discovery: A New Paradigm for Open Set Recognition. IEEE Transactions
 Orientational Distribution Learning with Hierarchical Spatial Attention for Open Set Recognition. IEEE Transactions on Pattern Analysis and Machine Intelligence, 2022. [[Paper](https://ieeexplore.ieee.org/abstract/document/9978641)] [[Code](https://github.com/fuyimin96/ODL)]
 
 Zhunga Liu, **Yimin Fu**, Quan Pan, Zuowei Zhang. (co-authored with PhD supervisor)
+
+- **<span style="color: red;"> SCI Q1, CCF-A, 中科院1区 Top, IF: 18.6, 学生一作 </span>**
 
 </div>
 </div>
@@ -67,6 +71,8 @@ A Unified SAM-Guided Self-Prompt Learning Framework for Infrared Small Target De
 
 **Yimin Fu**, Jialin Lyu, Peiyuan Ma, Zhunga Liu, Michael K. Ng.
 
+- **<span style="color: red;"> SCI Q1, 中科院1区 Top, IF: 8.6 </span>**
+
 </div>
 </div>
 
@@ -76,6 +82,8 @@ A Unified SAM-Guided Self-Prompt Learning Framework for Infrared Small Target De
 Adaptive Mixture-of-Experts Distillation for Cross-Satellite Generalizable Incremental Remote Sensing Scene Classification. IEEE Transactions on Circuits and Systems for Video Technology, 2025. [[Paper](https://ieeexplore.ieee.org/document/11124203)] [[Code](https://github.com/fuyimin96/AMoED)]
 
 **Yimin Fu**, Runqing Yang, Zhunga Liu, Michael K. Ng.
+
+- **<span style="color: red;"> SCI Q1, 中科院1区 Top, IF: 11.1 </span>**
 
 </div>
 </div>
@@ -87,6 +95,8 @@ Scattering-Guided Class-Irrelevant Filtering for Adversarially Robust SAR Automa
 
 Zhunga Liu, Jialin Lyu, **Yimin Fu<sup>*</sup>**.
 
+- **<span style="color: red;"> SCI Q2, 中科院2区, 通讯作者 </span>**
+
 </div>
 </div>
 
@@ -96,6 +106,8 @@ Zhunga Liu, Jialin Lyu, **Yimin Fu<sup>*</sup>**.
 Transferable Adversarial Attacks for Remote Sensing Object Recognition via Spatial-Frequency Co-Transformation. IEEE Transactions on Geoscience and Remote Sensing, 2024. [[Paper](https://ieeexplore.ieee.org/document/10636327)] [[Code](https://github.com/fuyimin96/SFCoT)]
 
 **Yimin Fu**, Zhunga Liu, Jialin Lyu.
+
+- **<span style="color: red;"> SCI Q1, 中科院1区 Top, IF: 8.6 </span>**
 
 </div>
 </div>
@@ -107,6 +119,8 @@ Logit Prototype Learning with Active Multimodal Representation for Robust Open-S
 
 **Yimin Fu**, Zhunga Liu, Zicheng Wang.
 
+- **<span style="color: red;"> SCI Q1, CCF-A, 中科院1区 Top, IF: 7.6 </span>**
+
 </div>
 </div>
 
@@ -117,6 +131,8 @@ Class-Incremental Recognition of Objects in Remote Sensing Images with Dynamic H
 
 **Yimin Fu**, Zhunga Liu, Changyuan Wu, Feiyan Wu, Meiqin Liu.
 
+- **<span style="color: red;"> SCI Q1, 中科院2区 Top, IF: 5.7 </span>**
+
 </div>
 </div>
 
@@ -126,6 +142,8 @@ Class-Incremental Recognition of Objects in Remote Sensing Images with Dynamic H
 Progressive Learning Vision Transformer for Open Set Recognition of Fine-Grained Objects in Remote Sensing Images. IEEE Transactions on Geoscience and Remote Sensing, 2023. [[Paper](https://ieeexplore.ieee.org/document/10231130)]
 
 **Yimin Fu**, Zhunga Liu, Zuowei Zhang.
+
+- **<span style="color: red;"> SCI Q1, 中科院1区 Top, IF: 8.6 </span>**
 
 </div>
 </div>
