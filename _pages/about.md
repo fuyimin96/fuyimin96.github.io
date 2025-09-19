@@ -67,7 +67,7 @@ Zhunga Liu, **Yimin Fu**, Quan Pan, Zuowei Zhang. (co-authored with PhD supervis
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">TGRS 2025</div><img src='../images/sam-spl.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
   
-A Unified SAM-Guided Self-Prompt Learning Framework for Infrared Small Target Detection. IEEE Transactions on Geoscience and Remote Sensing, 2025. [[Code](https://github.com/fuyimin96/SAM-SPL)]
+A Unified SAM-Guided Self-Prompt Learning Framework for Infrared Small Target Detection. IEEE Transactions on Geoscience and Remote Sensing, 2025. [[Paper](https://ieeexplore.ieee.org/document/11172325)] [[Code](https://github.com/fuyimin96/SAM-SPL)]
 
 **Yimin Fu**, Jialin Lyu, Peiyuan Ma, Zhunga Liu, Michael K. Ng.
 
