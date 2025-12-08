@@ -107,3 +107,23 @@ h1:before, .anchor:before {
     background-color: #00369f;
     font-size: .8em;
 }
+
+.news-wrapper {
+  max-height: 220px;      /* 根据你主页布局调整，比如 200–280px */
+  overflow-y: auto;
+  padding-right: 6px;     /* 预留一点空间给滚动条，看起来不挤 */
+}
+
+/* 可选：让滚动区域看起来更精细一点（只在支持的浏览器生效） */
+.news-wrapper::-webkit-scrollbar {
+  width: 6px;
+}
+
+.news-wrapper::-webkit-scrollbar-thumb {
+  border-radius: 3px;
+  background-color: rgba(0, 0, 0, 0.25);
+}
+
+.news-wrapper::-webkit-scrollbar-track {
+  background-color: transparent;
+}
