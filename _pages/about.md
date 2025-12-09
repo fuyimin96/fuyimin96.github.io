@@ -24,7 +24,7 @@ Starting in 2025, I joined Hong Kong Baptist University (HKBU) as a postdoctoral
 # 🔥 News
 <div class="news-wrapper" markdown="1">
 
-- *2025.12*: &nbsp;🎉 Two letters are accepted to IEEE SPL.
+- *2025.12*: &nbsp;🎉 Two papers are accepted to IEEE SPL.
 - *2025.09*: &nbsp;🎉 One paper is accepted to IEEE T-GRS.
 - *2025.09*: &nbsp;🎉 One paper is accepted to Signal Processing.
 - *2025.08*: &nbsp;🎉 One paper is accepted to IEEE T-CSVT.
