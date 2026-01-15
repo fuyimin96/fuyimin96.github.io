@@ -71,6 +71,16 @@ Zhunga Liu, **Yimin Fu**, Quan Pan, Zuowei Zhang. (co-authored with PhD supervis
 </div>
 </div>
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TRS 2026</div><img src='../images/sar_noise.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+  
+Collaborative Learning of Scattering and Deep Features for SAR Target Recognition with Noisy Labels. IEEE Transactions on Radar Systems, 2026. [[Paper](https://arxiv.org/abs/2508.07656)] [[Code](https://github.com/fuyimin96/CLSDF)]
+
+**Yimin Fu**, Zhunga Liu, Dongxiu Guo, Longfei Wang.
+
+</div>
+</div>
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">TGRS 2025</div><img src='../images/sam-spl.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
   
