@@ -46,33 +46,22 @@ Starting in 2025, I joined Hong Kong Baptist University (HKBU) as a postdoctoral
 
 
 # 📝 Selected Publications 
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TPAMI 2025</div><img src='../images/rad.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-  
-Reason and Discovery: A New Paradigm for Open Set Recognition. IEEE Transactions on Pattern Analysis and Machine Intelligence, 2025. [[Paper](https://ieeexplore.ieee.org/abstract/document/10933572)] [[Code](https://github.com/fuyimin96/RAD)]
-
-**Yimin Fu**, Zhunga Liu, Jialin Lyu.
-
-</div>
-</div>
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TPAMI 2022</div><img src='../images/odl.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-  
-Orientational Distribution Learning with Hierarchical Spatial Attention for Open Set Recognition. IEEE Transactions on Pattern Analysis and Machine Intelligence, 2022. [[Paper](https://ieeexplore.ieee.org/abstract/document/9978641)] [[Code](https://github.com/fuyimin96/ODL)]
-
-Zhunga Liu, **Yimin Fu**, Quan Pan, Zuowei Zhang. (co-authored with PhD supervisor)
-
-</div>
-</div>
-
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">TRS 2026</div><img src='../images/sar_noise.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
   
 Collaborative Learning of Scattering and Deep Features for SAR Target Recognition with Noisy Labels. IEEE Transactions on Radar Systems, 2026. [[Paper](https://ieeexplore.ieee.org/document/11355694)] [[Code](https://github.com/fuyimin96/CLSDF)]
 
 **Yimin Fu**, Zhunga Liu, Dongxiu Guo, Longfei Wang.
+
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TPAMI 2025</div><img src='../images/rad.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+  
+Reason and Discovery: A New Paradigm for Open Set Recognition. IEEE Transactions on Pattern Analysis and Machine Intelligence, 2025. [[Paper](https://ieeexplore.ieee.org/abstract/document/10933572)] 
+
+**Yimin Fu**, Zhunga Liu, Jialin Lyu.
 
 </div>
 </div>
@@ -143,6 +132,16 @@ Class-Incremental Recognition of Objects in Remote Sensing Images with Dynamic H
 Progressive Learning Vision Transformer for Open Set Recognition of Fine-Grained Objects in Remote Sensing Images. IEEE Transactions on Geoscience and Remote Sensing, 2023. [[Paper](https://ieeexplore.ieee.org/document/10231130)]
 
 **Yimin Fu**, Zhunga Liu, Zuowei Zhang.
+
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TPAMI 2022</div><img src='../images/odl.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+  
+Orientational Distribution Learning with Hierarchical Spatial Attention for Open Set Recognition. IEEE Transactions on Pattern Analysis and Machine Intelligence, 2022. [[Paper](https://ieeexplore.ieee.org/abstract/document/9978641)] [[Code](https://github.com/fuyimin96/ODL)]
+
+Zhunga Liu, **Yimin Fu**, Quan Pan, Zuowei Zhang. (co-authored with PhD supervisor)
 
 </div>
 </div>
