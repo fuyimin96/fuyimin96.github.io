@@ -47,7 +47,7 @@ Starting in 2025, I joined Hong Kong Baptist University (HKBU) as a postdoctoral
 
 
 # 📝 Selected Publications 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TGRS 2026</div><img src='../images/HTC.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TGRS 2026</div><img src='../images/htc.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
   
 Transferability Reinforcement of Adversarial Attacks for Remote Sensing Image Classification via Hierarchical Transformation Composition. IEEE Transactions on Geoscience and Remote Sensing, 2026. [[Paper](https://ieeexplore.ieee.org/document/11543362)] [[Code](https://github.com/fuyimin96/HTC)]
