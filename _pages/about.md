@@ -47,7 +47,6 @@ Starting in 2025, I joined Hong Kong Baptist University (HKBU) as a postdoctoral
 
 
 # 💡 Preprints
-
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Under Review</div><img src='../images/s2cp.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
   
@@ -59,7 +58,6 @@ Rethinking Representations for Cross-Domain Infrared Small Target Detection: A G
 </div>
 
 # 📝 Selected Publications 
-
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">TGRS 2026</div><img src='../images/htc.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
   
