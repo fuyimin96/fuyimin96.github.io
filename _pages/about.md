@@ -46,17 +46,19 @@ Starting in 2025, I joined Hong Kong Baptist University (HKBU) as a postdoctoral
 </div>
 
 
-# 📝 Selected Publications 
+# 💡 Preprints
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint</div><img src='../images/s2cp.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Under Review</div><img src='../images/s2cp.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
   
-Rethinking Representations for Cross-Domain Infrared Small Target Detection: A Generalizable Perspective from the Frequency Domain. arXiv preprint, 2026. [[Preprint](https://arxiv.org/abs/2604.01934)] [[Code](https://github.com/fuyimin96/S2CPNet)]
+Rethinking Representations for Cross-Domain Infrared Small Target Detection: A Generalizable Perspective from the Frequency Domain. arXiv, 2026. [[Preprint](https://arxiv.org/abs/2604.01934)] [[Code](https://github.com/fuyimin96/S2CPNet)]
 
 **Yimin Fu**, Songbo Wang, Feiyan Wu, Jialin Lyu, Zhunga Liu, Michael K. Ng.
 
 </div>
 </div>
+
+# 📝 Selected Publications 
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">TGRS 2026</div><img src='../images/htc.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
