@@ -47,6 +47,16 @@ Starting in 2025, I joined Hong Kong Baptist University (HKBU) as a postdoctoral
 
 
 # 💡 Preprints
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Under Review</div><img src='../images/GeoThreat.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+  
+GeoThreat: Transferable Targeted Adversarial Attacks on Large Vision-Language Models for Remote Sensing Image Interpretation. arXiv, 2026. [[Preprint](https://arxiv.org/abs/2607.21036)] [[Code](https://github.com/fuyimin96/GeoThreat)]
+
+**Yimin Fu**, Yuefeng Bai, Baicheng Pan, Zhunga Liu, Michael K. Ng.
+
+</div>
+</div>
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Under Review</div><img src='../images/s2cp.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
   
