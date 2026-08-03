@@ -90,6 +90,16 @@ Collaborative Learning of Scattering and Deep Features for SAR Target Recognitio
 </div>
 </div>
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NEUCOM 2026</div><img src='../images/SDRD.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+  
+Semantic-Driven Representation Disentanglement for Robust Open-Set Retrieval of Cross-Modal Remote Sensing Images. Neurocomputing, 2026. [[Paper](https://www.sciencedirect.com/science/article/abs/pii/S0925231226020709)]
+
+Lizhuo Liu, Peiyuan Ma, **Yimin Fu<sup>*</sup>**, Zhunga Liu.
+
+</div>
+</div>
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">TPAMI 2025</div><img src='../images/rad.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
   
