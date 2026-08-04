@@ -70,6 +70,16 @@ Rethinking Representations for Cross-Domain Infrared Small Target Detection: A G
 </div>
 
 # 📝 Selected Publications 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TCSVT 2026</div><img src='../images/LG-MoSE.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+  
+Language-Guided Mixture of Spectral Experts for Cross-Scenario Hyperspectral Anomaly Detection. IEEE Transactions on Circuits and Systems for Video Technology, 2026. [[Paper](https://ieeexplore.ieee.org/document/11638213)] [[Code](https://github.com/fuyimin96/LG-MoSE)]
+
+**Yimin Fu**, Peiyuan Ma, Yinghao Xu, Michael K. Ng, Peng Ren.
+
+</div>
+</div>
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">TGRS 2026</div><img src='../images/htc.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
   
