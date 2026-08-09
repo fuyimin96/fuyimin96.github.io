@@ -201,6 +201,7 @@ Zhunga Liu, **Yimin Fu**, Quan Pan, Zuowei Zhang. (co-authored with PhD supervis
 </div>
 
 # 🎖 Honors and Awards
+- *2026*: FENG Ru Best Paper Award, ICGNC 2026, China.
 - *2024*: National Scholarship for PhD Students, NPU, Xi’an, China.
 - *2023*: Innovation Foundation for Doctor Dissertation, NPU, Xi’an, China.
 - *2023*: Cultivation Foundation for Excellent Doctoral Dissertation, NPU, Xi’an, China.
