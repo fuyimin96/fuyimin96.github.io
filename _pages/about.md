@@ -24,6 +24,7 @@ Starting in 2025, I joined Hong Kong Baptist University (HKBU) as a postdoctoral
 # 🔥 News
 <div class="news-wrapper" markdown="1">
 
+- *2026.09*: &nbsp;🎉 One paper is accepted to ESWA.
 - *2026.07*: &nbsp;🎉 One paper is accepted to IEEE T-CSVT.
 - *2026.07*: &nbsp;🎉 One paper is accepted to Neurocomputing.
 - *2026.05*: &nbsp;🎉 One paper is accepted to IEEE T-GRS.
