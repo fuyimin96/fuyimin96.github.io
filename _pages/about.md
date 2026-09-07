@@ -101,6 +101,17 @@ Collaborative Learning of Scattering and Deep Features for SAR Target Recognitio
 </div>
 </div>
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ESWA 2026</div><img src='../images/lumbar.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+  
+Adaptive Cross-Sequence Attention with Patient Geometry Encoding for Precise MRI Lumbar Disease Diagnosis. Expert Systems with Applications, 2026. [[Paper](https://www.sciencedirect.com/science/article/pii/S0957417426032100)]
+
+Zheng Lian, **Yimin Fu<sup>*</sup>**, Peiyuan Ma, Jialin Lyu, Xuexiao Ma,
+Zhunga Liu, Michael K. Ng.
+
+</div>
+</div>
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">NEUCOM 2026</div><img src='../images/SDRD.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
   
