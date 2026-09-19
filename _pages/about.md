@@ -50,6 +50,16 @@ Starting in 2025, I joined Hong Kong Baptist University (HKBU) as a postdoctoral
 
 
 # 💡 Preprints
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Under Review</div><img src='../images/istd_nl.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+  
+Prompt and Refinement: Asymmetric Mutual Learning for Infrared Small Target Detection with Noisy Labels. arXiv, 2026. [[Code](https://github.com/fuyimin96/PAR)]
+
+**Yimin Fu**, Songbo Wang, Lizhuo Liu, Baicheng Pan, Zhunga Liu, Michael K. Ng.
+
+</div>
+</div>
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Under Review</div><img src='../images/GeoThreat.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
   
