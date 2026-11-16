@@ -117,7 +117,7 @@ Collaborative Learning of Scattering and Deep Features for SAR Target Recognitio
   
 Incomplete Continual Multi-view Clustering with Similarity Reconstruction and Incremental Augmented Anchor Graph Learning. IEEE Transactions on Multimedia, 2026.
 
-Baicheng Pan, Michael K. Ng<sup>*</sup>, Aiping Lu, **Yimin Fu<sup>*</sup>**, Hangjun Che.
+Baicheng Pan, Michael K. Ng*<sup>*</sup>*, Aiping Lu, **Yimin Fu<sup>*</sup>**, Hangjun Che
 
 </div>
 </div>
